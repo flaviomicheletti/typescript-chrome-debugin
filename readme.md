@@ -4,11 +4,15 @@ Esta foi a primeira tentativa de debugar no Chrome a partir do vscode.
 
 Eu criei um aplicação bem simples.
 
+- https://code.visualstudio.com/docs/typescript/typescript-tutorial
+- https://code.visualstudio.com/docs/typescript/typescript-compiling
+- https://code.visualstudio.com/docs/typescript/typescript-debugging
+
 Instalei o http-server `npm install http-server --save-dev`.
 
 ### Debugando
 
-Inicie o servidor 
+Inicie o servidor
 
     node node_modules/http-server/bin/http-server
 
@@ -37,7 +41,7 @@ Igualmente importante foi saber onde estava instalado o Chrome (chromiun) no Lin
     $ which chromium-browser
     /usr/bin/chromium-browser
 
-O comando acima retornou (na minha máquina) o caminho do navegador, então pude corrigir o 
+O comando acima retornou (na minha máquina) o caminho do navegador, então pude corrigir o
 arquivo `launch.json`.
 
       "runtimeExecutable": "/usr/bin/chromium-browser",
