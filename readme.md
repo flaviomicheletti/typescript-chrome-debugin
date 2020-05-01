@@ -25,6 +25,19 @@ Você pode colocar algum breakpoint e se divertir.
 ![](debuging-vscode.png)
 
 
+### Build
+
+Você também pode realizar o build sem a necessidade do debug.
+
+    npm run build
+
+Ou, se tiver o typscript instalado (`npm install -g typescript`), digite apenas...
+
+    tsc
+
+
+
+
 ### Desafios
 
 A configuração no arquivo `/.vscode/launch.json` é a dica "matadora".
