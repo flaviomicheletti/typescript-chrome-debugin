@@ -36,8 +36,6 @@ Ou, se tiver o typscript instalado (`npm install -g typescript`), digite apenas.
     tsc
 
 
-
-
 ### Desafios
 
 A configuração no arquivo `/.vscode/launch.json` é a dica "matadora".
