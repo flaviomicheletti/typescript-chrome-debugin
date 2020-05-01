@@ -59,13 +59,13 @@ arquivo `launch.json`.
 
 O que "salvou a lavoura" foram as dicas nos artigos abaixo.
 
+### Me ajudaram
 
-## Dicas de configuração
+Dicas de configuração:
 
 - https://medium.com/@JSantaCL/how-to-debug-an-angular-app-using-vs-code-and-chromium-7eb60b0b0cee
 
-
-## Onde está instalado o Chrome ?
+Onde está instalado o Chrome ?
 
 - https://askubuntu.com/questions/839298/default-installation-path-for-chromium-web-browser-in-ubuntu-16-04
 - https://stackoverflow.com/questions/13928620/how-to-set-path-for-chromium-browser-in-sublimetext2s-slidebar-enhancement-plug
