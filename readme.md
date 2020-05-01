@@ -27,7 +27,7 @@ Coloque algum breakpoint e divirtase.
 
 ### Desafios
 
-O mais importante foi esta configuração no arquivo `/.vscode/launch.json`
+A configuração no arquivo `/.vscode/launch.json` é a dica "matadora".
 
     "runtimeArgs": [
         "--new-window",
@@ -36,7 +36,7 @@ O mais importante foi esta configuração no arquivo `/.vscode/launch.json`
         "--disable-background-networking"
     ],
 
-Igualmente importante foi saber onde estava instalado o Chrome (chromiun) no Linux.
+Igualmente importante, foi saber onde estava instalado o Chrome (chromiun) no Linux.
 
     $ which chromium-browser
     /usr/bin/chromium-browser
