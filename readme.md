@@ -20,7 +20,7 @@ Como já temos o vscode devidamente configurado, basta acinonar `F5`.
 
 O Chrome deve abrir automaticamente.
 
-Coloque algum breakpoint e divirtase.
+Você pode colocar algum breakpoint e se divertir.
 
 ![](debuging-vscode.png)
 
