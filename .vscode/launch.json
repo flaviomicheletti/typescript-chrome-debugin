@@ -5,9 +5,9 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "name": "Launch Program",
       "type": "chrome",
       "request": "launch",
-      "name": "Launch Program",
       "url": "http://localhost:8080",
       "webRoot": "${workspaceFolder}",
       "runtimeExecutable": "/usr/bin/chromium-browser",
@@ -20,6 +20,19 @@
       "skipFiles": [
         "<node_internals>/**"
       ]
-    }
+    },
+    {
+      "name": "Launch localhost",
+      "type": "chrome",
+      "request": "launch",
+      "url": "http://localhost:8080/index.html",
+      "webRoot": "${workspaceFolder}/out"
+  },
+  {
+      "name": "Launch index.html",
+      "type": "chrome",
+      "request": "launch",
+      "file": "${workspaceFolder}/index.html"
+  },    
   ]
 }
