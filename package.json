@@ -4,6 +4,7 @@
   "description": "Esta foi a primeira tentativa de debugar no Chrome a partir do vscode.",
   "main": "index.js",
   "scripts": {
+    "start": " node node_modules/http-server/bin/http-server",
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
