@@ -72,7 +72,7 @@ Onde está instalado o Chrome ?
 - https://stackoverflow.com/questions/13928620/how-to-set-path-for-chromium-browser-in-sublimetext2s-slidebar-enhancement-plug
 
 
-### Update´s
+### Updates
 
 1) Não pode esquecer de instalar o plugin para o VSCode:
 
