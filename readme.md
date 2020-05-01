@@ -71,3 +71,14 @@ Onde está instalado o Chrome ?
 - https://stackoverflow.com/questions/13928620/how-to-set-path-for-chromium-browser-in-sublimetext2s-slidebar-enhancement-plug
 
 
+### Update´s
+
+1) No Linux parou de funcionar após eu ter reinstalado o Chrome.
+
+Parece que o local abaixo, apesar de válido, não é o mais correto.
+
+      "runtimeExecutable": "/usr/bin/chromium-browser",
+
+2) Não pode esquecer de instalar o plugin para o VSCode:
+
+https://github.com/Microsoft/vscode-chrome-debug
