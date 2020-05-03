@@ -1,4 +1,4 @@
-# Typescript on VSCode
+# Debugin Typescript on Chrome with VSCode
 
 Esta foi a primeira tentativa de debugar no Chrome a partir do vscode.
 

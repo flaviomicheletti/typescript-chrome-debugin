@@ -10,14 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flaviomicheletti/typescript-in-vscode.git"
+    "url": "git+https://github.com/flaviomicheletti/typescript-chrome-debugin"
   },
-  "author": "",
+  "author": "Flávio Micheletti",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/flaviomicheletti/ts-in-vscode/issues"
-  },
-  "homepage": "https://github.com/flaviomicheletti/ts-in-vscode#readme",
   "devDependencies": {
     "http-server": "^0.12.1"
   }

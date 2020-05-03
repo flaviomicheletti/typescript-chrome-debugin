@@ -19,9 +19,7 @@
         "--remote-debugging-port=9222",
         "--disable-background-networking"
       ],
-      "skipFiles": [
-        "<node_internals>/**"
-      ]
+      "skipFiles": ["<node_internals>/**"]
     },
     {
       "name": "Launch localhost",
