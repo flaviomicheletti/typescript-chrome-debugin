@@ -10,9 +10,9 @@
       "request": "launch",
       "url": "http://localhost:8080",
       "webRoot": "${workspaceFolder}",
-      "runtimeExecutable": "/usr/bin/google-chrome",
+      // "runtimeExecutable": "/usr/bin/google-chrome",
       // "runtimeExecutable": "/usr/bin/chromium-browser",
-      // "runtimeExecutable": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+      "runtimeExecutable": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
       "runtimeArgs": [
         "--new-window",
         "-user-data-dir=\"/${workspaceFolder}/DevProfile\"",
