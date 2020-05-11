@@ -77,3 +77,8 @@ Onde está instalado o Chrome ?
 1) Não pode esquecer de instalar o plugin para o VSCode:
 
 https://github.com/Microsoft/vscode-chrome-debug
+
+
+2) launch-versus-attach
+
+https://code.visualstudio.com/docs/editor/debugging#_launch-versus-attach-configurations
