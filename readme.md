@@ -79,6 +79,6 @@ Onde está instalado o Chrome ?
 https://github.com/Microsoft/vscode-chrome-debug
 
 
-2) launch-versus-attach
+2) Launch versus Attach
 
 https://code.visualstudio.com/docs/editor/debugging#_launch-versus-attach-configurations
