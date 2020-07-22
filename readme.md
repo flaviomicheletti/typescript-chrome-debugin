@@ -22,7 +22,7 @@ O Chrome deve abrir automaticamente.
 
 Você pode colocar algum breakpoint e se divertir.
 
-![](debuging-vscode.png)
+![debuging-vscode](https://user-images.githubusercontent.com/1257048/88119216-27b61a00-cb96-11ea-996b-be37c70d3e43.png)
 
 
 ### Build
